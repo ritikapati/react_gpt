@@ -13,14 +13,6 @@ Before you begin, ensure you have met the following requirements:
 - Node.js installed on your computer
 - An OpenAI API key ([Sign up for OpenAI](https://beta.openai.com/signup/) if you don't have one)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/chatgpt-clone.git
-   cd chatgpt-clone
-
 ## Available Scripts
 
 In the project directory, you can run:
